@@ -1,22 +1,22 @@
 {
-   "owner": "6285887776722",
-   "owner_name": "Wildan Izzudin",
+   "owner": "593985807958",
+   "owner_name": "Cristian",
    "database": "data",
-   "limit": 15,
+   "limit": 25,
    "ram_limit": "900mb",
-   "max_upload": 50,
-   "max_upload_free": 10,
+   "max_upload": 2000,
+   "max_upload_free": 500,
    "cooldown": 1,
    "timer": 180000,
    "timeout": 1800000,
    "permanent_threshold": 3,
-   "notify_threshold": 4,
-   "banned_threshold": 5,
+   "notify_threshold": 14,
+   "banned_threshold": 15,
    "blocks": ["994", "91", "92"],
    "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
    "pairing": {
       "state": true,
-      "number": 6285703501744
+      "number": 593987731896
    },
    "replit_url": ""
 }
